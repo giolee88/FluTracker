@@ -8,11 +8,11 @@ Team Members:
 
 ## Project Milestones
 
--- Initial Data Source Research Internal Review:   12/18 Monday
--- Data Retrievel Finalized.  Cleansing Review:   12/23 Saturday
--- Visualization Renderings. Findings Review:  1/3 Wednesday
--- Presentation Contributions Due: 1/6 Saturday
--- Presentation Due:  1/8 Monday
+*  Initial Data Source Research Internal Review:   12/18 Monday
+*  Data Retrievel Finalized.  Cleansing Review:   12/23 Saturday
+*  Visualization Renderings. Findings Review:  1/3 Wednesday
+*  Presentation Contributions Due: 1/6 Saturday
+*  Presentation Due:  1/8 Monday
 
 ## Project Proposal
 Objective: Investigate historical Per-Capita Flu Outbreaks against the following possible datasets/drivers:
