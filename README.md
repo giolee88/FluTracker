@@ -1,6 +1,10 @@
 # Team FluTraker Project 1
 
 This document contains the Summary and Key Planning notes for Team FluTraker Project 1.
+Team Members: 
+* Ben Gordon
+* Joe Lee
+* Lee Hughes
 
 ## Project Milestones
 
