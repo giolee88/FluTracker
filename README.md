@@ -22,8 +22,8 @@ Objective: Investigate historical Per-Capita Flu Outbreaks against the following
 * Vaccination History
 
 ## Finding Data
-The team will bring data into the code folder.  CSV files will be stored in code/data.  
-Separate python files can contain exploration of each dataset.  
+The team will bring data into the code folder.  CSV files, if required will be stored in code/data.  
+Separate python files can contain exploration of each dataset.  The team will review each others findings through by reviewing the code.  
 * Flu Incidents (Joe)
 * Population (Lee) 
 * Weather (Ben)
