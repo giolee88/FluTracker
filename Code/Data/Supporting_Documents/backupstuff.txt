@@ -1,0 +1,51 @@
+# Dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+
+
+
+
+# Store filepath in a variable
+flu_incident_file= "Data/ILINet_2015_2017.csv"
+
+
+
+
+
+# Read our Data file with the pandas library
+# Not every CSV requires an encoding, but be aware this can come up
+file_df = pd.read_csv(flu_incident_file, encoding = "ISO-8859-1")
+
+file_df
+
+
+x_axis = np.arange(len(file_df))
+tick_locations = [value+0.4 for value in x_axis]
+
+plt.figure(figsize=(20,3))
+plt.bar(x_axis, file_df["ILITOTAL"], color='r', alpha=0.5, align="edge")
+plt.xticks(tick_locations, file_df["WEEK"], rotation="vertical")
+
+# Set x and y limits
+plt.xlim(-0.25, len(x_axis))
+plt.ylim(0, max(file_df["ILITOTAL"])+10)
+
+
+
+
+
+
+
+# Set a Title and labels
+plt.title("Influenza Like Illnesses Reported")
+plt.xlabel("Week Number")
+plt.ylabel("Count of Incidences")
+
+
+# Save our graph and show the grap
+plt.tight_layout()
+plt.savefig("Flu_Incident.png")
+plt.show()
