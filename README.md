@@ -42,7 +42,14 @@ Separate python files can contain exploration of each dataset.  The team will re
 
 *Here are the links to the PNG images of our plots:
 * https://github.com/giolee88/FluTracker/blob/master/Code/AirTravelVSOutbreak.png
-* 
+* https://github.com/giolee88/FluTracker/blob/master/Code/Flu_Incident.png
+* https://github.com/giolee88/FluTracker/blob/master/Code/PrecipitationVSFluOutbreak.png
+* https://github.com/giolee88/FluTracker/blob/master/Code/temp_leads_incidents.png
+* https://github.com/giolee88/FluTracker/blob/master/Code/temp_vs_inc_6_wk_offset.png
+* https://github.com/giolee88/FluTracker/blob/master/Code/temp_vs_incidents_offset_scatter.png
+* https://github.com/giolee88/FluTracker/blob/master/Code/temp_vs_incidents_scatter.png
+* https://github.com/giolee88/FluTracker/blob/master/Code/VaccineVSOutbreak.png
+
 
 ## Presentation
 * Please click the link to see a powerpoint summary of our findings.
