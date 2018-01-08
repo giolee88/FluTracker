@@ -1,4 +1,4 @@
-# Team FluTraker Project 1
+# Team FluTracker Project 1
 
 This document contains the Summary and Key Planning notes for Team FluTraker Project 1.
 Team Members: 
@@ -37,7 +37,8 @@ Separate python files can contain exploration of each dataset.  The team will re
 * Vaccinations in 2015 seemed to be more effective than that of 2016
 * Air travel during times of influenza spikes show that passenger inflow/outflow counts are close to even.
 
-
+* To see our main code for cleanup and analysis click link below:
+* https://github.com/giolee88/FluTracker/blob/master/Code/Flutracker_Plots.ipynb
 
 ## Presentation
 * Please click the link to see a powerpoint summary of our findings.
