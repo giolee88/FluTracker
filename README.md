@@ -38,6 +38,8 @@ Separate python files can contain exploration of each dataset.  The team will re
 * Air travel during times of influenza spikes show that passenger inflow/outflow counts are close to even.
 
 
-## Presentation
 
+## Presentation
+* Please click the link to see a powerpoint summary of our findings.
+* https://github.com/giolee88/FluTracker/blob/master/Slide-Shows/Flu%20Tracker.pptx
  
