@@ -40,6 +40,10 @@ Separate python files can contain exploration of each dataset.  The team will re
 * To see our main code for cleanup and analysis click link below:
 * https://github.com/giolee88/FluTracker/blob/master/Code/Flutracker_Plots.ipynb
 
+*Here are the links to the PNG images of our plots:
+* https://github.com/giolee88/FluTracker/blob/master/Code/AirTravelVSOutbreak.png
+* 
+
 ## Presentation
 * Please click the link to see a powerpoint summary of our findings.
 * https://github.com/giolee88/FluTracker/blob/master/Slide-Shows/Flu%20Tracker.pptx
