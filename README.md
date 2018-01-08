@@ -33,8 +33,11 @@ Separate python files can contain exploration of each dataset.  The team will re
 
 ## Data Cleanup &amp; Analysis
 
-A summary of findings can be listed here.  
+*Weather highly correlated to influenza incidents
+*Vaccinations in 2015 seemed to be more effective than that of 2016
+*Air travel during times of influenza spikes show that passenger inflow/outflow counts are close to even.
+
 
 ## Presentation
 
-A summary of the presentation can be provided here.  
+ 
