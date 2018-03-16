@@ -1,4 +1,5 @@
 # Team FluTracker Project 1
+This project is also deployed at: https://bogordon86.github.io/FluTracker/
 
 This document contains the Summary and Key Planning notes for Team FluTraker Project 1.
 Team Members: 
